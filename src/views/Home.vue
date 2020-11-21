@@ -77,7 +77,7 @@ import navBar from '@/components/NavBar'
 import { getHome } from '@/service/home'
 import { getLocal } from '@/common/js/utils'
 import { Toast } from 'vant'
-export default {
+export default {  // 之所以能写程Home 就是因为我们默认导出这个东西
   name: 'home',
   components: {
     swiper,

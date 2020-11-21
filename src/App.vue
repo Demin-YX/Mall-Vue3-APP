@@ -42,6 +42,7 @@
 </script>
 
 <style lang="less">
+//预处理的一种方式
 html, body {
   height: 100%;
   overflow-x: hidden;
